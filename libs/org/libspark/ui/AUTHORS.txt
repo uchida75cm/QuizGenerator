@@ -1,0 +1,8 @@
+AUTHORS
+=======
+
+The PRIMARY AUTHORS are (and/or have been):
+
+    - Takanobu Izukawa <http://humming.via-kitchen.com/>
+    - Spark Project <http://www.libspark.org/>
+

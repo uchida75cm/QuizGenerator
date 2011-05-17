@@ -1,0 +1,32 @@
+<projectDescription>
+  <id>1303559773980</id>
+  <name>quiz2</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/fujitakensuke/Library/Application Support/Adobe/Flash CS4/ja/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/fujitakensuke/Library/Application Support/Adobe/Flash CS4/ja/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///Macintosh HD/Users/fujitakensuke/Desktop/quiz2/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="FalseScene.as">file:///Macintosh HD/Users/fujitakensuke/Desktop/quiz2/src/scene/FalseScene.as</uri>
+    <uri label="TrueScene.as">file:///Macintosh HD/Users/fujitakensuke/Desktop/quiz2/src/scene/TrueScene.as</uri>
+    <uri label="RaiseScene.as">file:///Macintosh HD/Users/fujitakensuke/Desktop/quiz2/src/scene/RaiseScene.as</uri>
+    <uri label="QuestionScene.as">file:///Macintosh HD/Users/fujitakensuke/Desktop/quiz2/src/scene/QuestionScene.as</uri>
+    <uri label="QuizScene.as">file:///Macintosh HD/Users/fujitakensuke/Desktop/quiz2/src/scene/QuizScene.as</uri>
+    <uri label="Utils.as">file:///Macintosh HD/Users/fujitakensuke/Desktop/quiz2/src/Utils.as</uri>
+    <uri label="Sounds.as">file:///Macintosh HD/Users/fujitakensuke/Desktop/quiz2/src/Sounds.as</uri>
+    <uri label="quiz.xml">file:///Macintosh HD/Users/fujitakensuke/Desktop/quiz2/bin-debug/quiz.xml</uri>
+    <uri label="OpenningScene.as">file:///Macintosh HD/Users/fujitakensuke/Desktop/quiz2/src/scene/OpenningScene.as</uri>
+    <uri label="AnswerScene.as">file:///Macintosh HD/Users/fujitakensuke/Desktop/quiz2/src/scene/AnswerScene.as</uri>
+    <uri label="BaseScene.as">file:///Macintosh HD/Users/fujitakensuke/Desktop/quiz2/src/BaseScene.as</uri>
+    <uri label="IndexScene.as">file:///Macintosh HD/Users/fujitakensuke/Desktop/quiz2/src/scene/IndexScene.as</uri>
+    <uri label="EndingScene.as">file:///Macintosh HD/Users/fujitakensuke/Desktop/quiz2/src/scene/EndingScene.as</uri>
+    <uri label="Template.as">file:///Macintosh HD/Users/fujitakensuke/Desktop/quiz2/src/scene/Template.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
